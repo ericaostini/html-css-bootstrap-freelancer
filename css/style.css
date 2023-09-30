@@ -14,7 +14,7 @@
     background-color: white;
     content: "";
     display: inline-block;
-    height: 2px;
+    height: 4px;
     position: relative;
     vertical-align: middle;
     width: 15%;
@@ -23,7 +23,7 @@
     background-color: black;
     content: "";
     display: inline-block;
-    height: 2px;
+    height: 4px;
     position: relative;
     vertical-align: middle;
     width: 15%;
