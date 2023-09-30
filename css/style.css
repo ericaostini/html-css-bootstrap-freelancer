@@ -3,8 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
-#navbar{
+/* #navbar{
     background-color: #2C3E4F;
+} */
+.my-bg-green{
+    background-color: #19BC9B;
+}
+.my-bg-grey{
+    background-color: #3B536D;
+}
+.my-bg-dark-grey{
+    background-color: #2C3E4F;
+}
+.color-text-green{
+    color: #19BC9B;
 }
 .img-portfolio img{
     width: 100%;
@@ -20,7 +32,7 @@
     width: 15%;
 }
 .start-black:before, .start-black:after{
-    background-color: black;
+    background-color: #2C3E4F;
     content: "";
     display: inline-block;
     height: 4px;
@@ -28,3 +40,9 @@
     vertical-align: middle;
     width: 15%;
 }
+
+.no-decoration{
+    text-decoration: none;
+    color: #19BC9B;
+}
+
