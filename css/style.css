@@ -19,3 +19,12 @@
     vertical-align: middle;
     width: 15%;
 }
+.start-black:before, .start-black:after{
+    background-color: black;
+    content: "";
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+    width: 15%;
+}
