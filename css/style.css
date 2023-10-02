@@ -87,3 +87,8 @@
 .my-nav-link:hover{
     color: #19BC9B;
 }
+.my-border-bottom{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
