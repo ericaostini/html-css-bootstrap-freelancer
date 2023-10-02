@@ -51,7 +51,7 @@
     vertical-align: middle;
     width: 15%;
 }
-.start-black:before, .start-black:after{
+.star-black:before, .star-black:after{
     background-color: #2C3E4F;
     content: "";
     display: inline-block;
@@ -60,7 +60,9 @@
     vertical-align: middle;
     width: 15%;
 }
-
+.my-botton-light{
+    border: 1px solid white;
+}
 .no-decoration{
     text-decoration: none;
     color: #19BC9B;
