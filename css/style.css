@@ -22,6 +22,26 @@
     width: 100%;
     object-fit: cover;
 }
+.img-portfolio{
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+.img-portfolio:hover::after{
+    content: "+";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #19bc9b5c;
+    color: white;
+    font-size: 5em;
+    font-weight: bold;
+}
 .star:before, .star:after{
     background-color: white;
     content: "";
